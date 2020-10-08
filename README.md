@@ -2,7 +2,7 @@
 
 **Authors:** Schnepp et al.
 
-**Journal:** Physics of the Earth and Planetary Interiors, 2020
+**Journal:** Physics of the Earth and Planetary Interiors 2020
 
 ## Data description:
 
